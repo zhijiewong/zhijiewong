@@ -69,3 +69,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zhijiewong&show_icons=true&theme=radical&hide_border=true" alt="zhijiewong's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhijiewong&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
+
+### 📊 GitHub Telemetry
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhijiewong&theme=dark&background=0D1117&border=0D1117&stroke=00FFFF&ring=00E676&fire=FF007F&currStreakNum=ffffff&currStreakLabel=00FFFF&sideNums=ffffff&sideLabels=ffffff&dates=A9B2C3&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhijiewong&show_icons=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&icon_color=00E676&hide_border=true&border_radius=0" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhijiewong&layout=compact&bg_color=0D1117&title_color=FF007F&text_color=ffffff&hide_border=true&border_radius=0" alt="Top Languages" width="48%" />
+</p>
