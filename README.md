@@ -16,9 +16,9 @@
 
 ### 💼 About Me
 
-* 🏢 Currently working as an IT Expert at Vector Informatik GmbH.
-* 💻 Specializing in end-to-end full-stack development and vibe coding, with a drive to build exceptional, AI-integrated tools.
-* ⚡ When I'm not coding, you can find me exploring the latest in high-end PC hardware or brainstorming my next cat-themed project.
+🔭 **Expertise:** Pioneering the evolution from carbon-based intelligence to silicon-based AGI. 
+🏢 **Current Role:** IT Expert at [Vector Informatik GmbH](https://www.vector.com/) — *Global leader in software and hardware for automotive.*  
+🌈 **Vibe Coding:** Transforming raw creativity into production-grade AI tools. Currently scaling [**pawdig**](http://www.pawdig.com) to redefine document intelligence.
 
 ---
 
