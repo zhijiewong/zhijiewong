@@ -16,9 +16,9 @@
 
 ### 💼 About Me
 
-🔭 **Expertise:** Pioneering the evolution from carbon-based intelligence to silicon-based AGI. 
-🏢 **Current Role:** IT Expert at [Vector Informatik GmbH](https://www.vector.com/) — *Global leader in software and hardware for automotive.*  
-🌈 **Vibe Coding:** Transforming raw creativity into production-grade AI tools. Currently scaling [**pawdig**](http://www.pawdig.com) to redefine document intelligence.
+- 🔭 **Expertise:** Pioneering the evolution from carbon-based intelligence to silicon-based **AGI**.
+- 🏢 **Current Role:** IT Expert at [Vector Informatik GmbH](https://www.vector.com/) — *The global market leader in software and hardware for automotive electronics.*
+- 🌈 **Vibe Coding:** Transforming raw creativity into production-grade AI tools. Currently scaling [**pawdig**](http://www.pawdig.com) to redefine document intelligence.
 
 ---
 
