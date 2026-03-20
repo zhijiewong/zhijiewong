@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/zhijiewong/zhijiewong/raw/main/starfield_header.png" alt="Zhijie Wang's Cosmic Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I%20am%20Zhijie%20Wang%20👋&fontSize=45&fontColor=ffffff&desc=Full-Stack%20AI%20Developer%20🚀%20Du-du-du-du-du-du%20🤖&descSize=22&descColor=ffffff" alt="Zhijie Wang's Banner" width="100%" />
 </p>
-
----
 
 ---
 <h1 align="center">Hi, I am Zhijie Wang 👋</h1>
