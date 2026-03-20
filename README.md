@@ -1,10 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi,%20I%20am%20Zhijie%20Wang%20👋&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20AI%20Developer%20🚀&descSize=25&descColor=00FFFF&descAlignY=75" alt="Zhijie Wang Background" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/zhijiewong">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF007F%3B00FFFF%3BFFEA00&center=true&vCenter=true&width=800&lines=Du-du-du-du-du-du+🤖+🎶;Building+pawdig+%26+AIOps;Turning+coffee+into+community-driven+code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF007F;00FFFF;FFEA00&center=true&vCenter=true&width=800&lines=Du-du-du-du-du-du+🤖+🎶;Building+pawdig+%26+AIOps;Turning+coffee+into+community-driven+code." alt="Typing SVG" />
   </a>
 </p>
 
@@ -63,13 +60,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhijiewong&show_icons=true&theme=radical&hide_border=true" alt="zhijiewong's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhijiewong&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
 ### 📊 GitHub Telemetry
 
 <p align="center">
@@ -79,4 +69,25 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zhijiewong&show_icons=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&icon_color=00E676&hide_border=true&border_radius=0" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhijiewong&layout=compact&bg_color=0D1117&title_color=FF007F&text_color=ffffff&hide_border=true&border_radius=0" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🌐 Let's Build Something Together
+
+<p align="center">
+  Whether you want to collaborate on open-source <b>AIOps</b>, talk about the future of <b>Graph RAG</b>, or just swap vibe coding playlists, my inbox is open.
+</p>
+
+<p align="center">
+  <a href="mailto:wang.zhijie@163.com"><img src="https://img.shields.io/badge/Email-wang.zhijie@163.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF007F&labelColor=161B22&border=00FFFF" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/067426143"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=161B22" alt="LinkedIn"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zhijiewong&color=00FFFF&style=flat-square&label=PROFILE+VIEWS&bg_color=0D1117&label_color=161B22" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="Footer Wave" width="100%" />
 </p>
