@@ -9,13 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Actively_Building_Pawdig_%26_AIOps_Platform_⚡-0D1117?style=for-the-badge&logoColor=white&labelColor=161B22" alt="Current Status" />
-</p>
-
-<p align="center">
   <a href="http://www.pawdig.com"><img src="https://img.shields.io/badge/🐾_Pawdig-FF6B6B?style=for-the-badge&logoColor=white" alt="Pawdig"/></a>
   <a href="https://www.linkedin.com/in/067426143"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/zhijiewong"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Status-Vibe_Coding_⚡-0D1117?style=for-the-badge&logoColor=white&labelColor=161B22" alt="Vibe Coding Status" />
 </p>
 
 ---
