@@ -80,8 +80,12 @@
 </p>
 
 <p align="center">
-  <a href="mailto:wang.zhijie@163.com"><img src="https://img.shields.io/badge/Email-wang.zhijie@163.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF007F&labelColor=161B22&border=00FFFF" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/067426143"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=161B22" alt="LinkedIn"/></a>
+  <a href="mailto:wang.zhijie@163.com">
+    <img src="https://img.shields.io/badge/Contact_Me-Get_In_Touch-0D1117?style=for-the-badge&logo=gmail&logoColor=FF007F&labelColor=161B22&border=00FFFF" alt="Email Me"/>
+  </a>
+  <a href="https://www.linkedin.com/in/067426143">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 <p align="center">
