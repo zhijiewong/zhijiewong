@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/zhijiewong">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=800&lines=Du-du-du-du-du-du+🤖+🎶;Building+pawdig+%26+AIOps;Turning+coffee+into+community-driven+code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF007F%3B00FFFF%3BFFEA00&center=true&vCenter=true&width=800&lines=Du-du-du-du-du-du+🤖+🎶;Building+pawdig+%26+AIOps;Turning+coffee+into+community-driven+code." alt="Typing SVG" />
   </a>
 </p>
 
