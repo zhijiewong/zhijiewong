@@ -1,12 +1,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi,%20I%20am%20Zhijie%20Wang%20👋&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20AI%20Developer%20🚀&descSize=25&descColor=00FFFF&descAlignY=75" alt="Zhijie Wang Background" width="100%" />
-  <a href="https://github.com/zhijiewong">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF007F;00FFFF;FFEA00&center=true&vCenter=true&width=800&lines=Du-du-du-du-du-du+🤖+🎶;Building+pawdig+%26+AIOps;Turning+coffee+into+community-driven+code." alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi,%20I%20am%20Zhijie%20Wang%20👋&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20AI%20Developer%20🚀&descSize=25&descColor=00FFFF&descAlignY=75" alt="Zhijie Wang Background" width="100%" />
 </p>
 
 <p align="center">
@@ -67,12 +60,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zhijiewong&show_icons=true&theme=radical&hide_border=true" alt="zhijiewong's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhijiewong&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-<p align="center">
-  <strong>Let's Connect!</strong><br><br>
-  <a href="https://www.linkedin.com/in/067426143"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/zhijiewong"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:wang.zhijie@163.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
