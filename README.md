@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=galaxy&text1=Hi,%20I%20am%20Zhijie%20Wang%20👋&text2=Full-Stack%20AI%20Developer%20🚀%20Du-du-du-du-du-du%20🤖&width=900&height=300&color1=0D1117&color2=161B22&stars=true&twinkle=true" alt="Zhijie Wang's Universe Banner" width="100%" />
+</p>
+
+---
 <h1 align="center">Hi, I am Zhijie Wang 👋</h1>
 <h3 align="center">Full-Stack AI Developer 🚀 Du-du-du-du-du-du 🤖</h3>
 
