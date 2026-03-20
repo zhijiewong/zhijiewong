@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./starfield_banner_final.png" alt="Zhijie Wang's Cosmic Banner" width="100%" />
+  <img src="./cosmic_banner.png" alt="Zhijie Wang's Cosmic Banner" width="100%" />
 </p>
 ---
 <h1 align="center">Hi, I am Zhijie Wang 👋</h1>
