@@ -1,22 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&text=ZHIJIE%20WANG&fontSize=70&fontColor=00FFFF&animation=twinkling&desc=Full-Stack%20AI%20Developer&descSize=22&descColor=A9B2C3" alt="Cosmic Nameplate" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Hi,%20I%20am%20Zhijie%20Wang%20👋&fontSize=55&fontColor=00FFFF&animation=twinkling" alt="Zhijie Wang" />
 </p>
 
 <p align="center">
   <a href="https://github.com/zhijiewong">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E676&center=true&vCenter=true&width=800&lines=>_System+Initialized...;>_Loading+AI+Modules...;>_Initiating+Vibe+Protocol...;>_Du-du-du-du-du-du+🎧🎶;>_Building+pawdig+%26+AIOps" alt="Typing Terminal" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=800&lines=Full-Stack+AI+Developer+🚀;Du-du-du-du-du-du+🤖+🎶;Building+Intelligent+Web+Tools" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Base-Tokyo_🗼-0D1117?style=for-the-badge&logoColor=white&labelColor=161B22" alt="Location" />
-  <img src="https://img.shields.io/badge/Stack-TypeScript_|_Java-0D1117?style=for-the-badge&logoColor=white&labelColor=161B22" alt="Core Stack" />
-  <img src="https://img.shields.io/badge/Status-Vibe_Coding_⚡-0D1117?style=for-the-badge&logoColor=white&labelColor=161B22" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Actively_Building_Pawdig_%26_AIOps_Platform_⚡-0D1117?style=for-the-badge&logoColor=white&labelColor=161B22" alt="Current Status" />
 </p>
 
-<br>
 <p align="center">
-  <em>I'm a software engineer focused on building scalable backends and intelligent, AI-driven web tools.</em>
+  <a href="http://www.pawdig.com"><img src="https://img.shields.io/badge/🐾_Pawdig-FF6B6B?style=for-the-badge&logoColor=white" alt="Pawdig"/></a>
+  <a href="https://www.linkedin.com/in/067426143"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/zhijiewong"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
