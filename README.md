@@ -1,5 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi,%20I%20am%20Zhijie%20Wang%20👋&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20AI%20Developer%20🚀&descSize=25&descColor=00FFFF&descAlignY=75" alt="Zhijie Wang Background" width="100%" />
+  <a href="https://github.com/zhijiewong">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF007F;00FFFF;FFEA00&center=true&vCenter=true&width=800&lines=Du-du-du-du-du-du+🤖+🎶;Building+pawdig+%26+AIOps;Turning+coffee+into+community-driven+code." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi,%20I%20am%20Zhijie%20Wang%20👋&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20AI%20Developer%20🚀&descSize=25&descColor=00FFFF&descAlignY=75" alt="Zhijie Wang Background" width="100%" />
 </p>
 
 <p align="center">
