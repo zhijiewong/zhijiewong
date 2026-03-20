@@ -1,12 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Zhijie%20Wang&fontSize=75&fontColor=2196F3&animation=twinkling&desc=Full-Stack%20AI%20Developer%20🤖&descSize=25&descColor=ffffff" alt="Twinkling Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&text=ZHIJIE%20WANG&fontSize=70&fontColor=00FFFF&animation=twinkling&desc=Full-Stack%20AI%20Developer&descSize=22&descColor=A9B2C3" alt="Cosmic Nameplate" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/zhijiewong">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=🚀+Du-du-du-du-du-du+🎧🎶;Building+pawdig+%26+Open-Source+AIOps;Based+in+Tokyo,+Japan+🗼" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E676&center=true&vCenter=true&width=800&lines=>_System+Initialized...;>_Loading+AI+Modules...;>_Initiating+Vibe+Protocol...;>_Du-du-du-du-du-du+🎧🎶;>_Building+pawdig+%26+AIOps" alt="Typing Terminal" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Base-Tokyo_🗼-0D1117?style=for-the-badge&logoColor=white&labelColor=161B22" alt="Location" />
+  <img src="https://img.shields.io/badge/Stack-TypeScript_|_Java-0D1117?style=for-the-badge&logoColor=white&labelColor=161B22" alt="Core Stack" />
+  <img src="https://img.shields.io/badge/Status-Vibe_Coding_⚡-0D1117?style=for-the-badge&logoColor=white&labelColor=161B22" alt="Status" />
+</p>
+
+<br>
+<p align="center">
+  <em>I'm a software engineer focused on building scalable backends and intelligent, AI-driven web tools.</em>
+</p>
+
+---
 ---
 <h1 align="center">Hi, I am Zhijie Wang 👋</h1>
 <h3 align="center">Full-Stack AI Developer 🚀 Du-du-du-du-du-du 🤖</h3>
