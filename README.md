@@ -48,8 +48,16 @@
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
+**AI & LLM Ecosystem:** ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E.svg?style=for-the-badge&logoColor=black&color=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-121212.svg?style=for-the-badge&logoColor=white&color=121212)
+![Graph RAG](https://img.shields.io/badge/Graph_RAG-00FFFF.svg?style=for-the-badge&logoColor=black&color=0D1117&labelColor=161B22)
+![MCP](https://img.shields.io/badge/MCP_(Model_Context_Protocol)-00E676.svg?style=for-the-badge&logoColor=black&color=0D1117&labelColor=161B22)
+
 **Database & Infrastructure:** ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
