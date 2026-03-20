@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="./cosmic_banner.png" alt="Zhijie Wang's Cosmic Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Zhijie%20Wang&fontSize=75&fontColor=2196F3&animation=twinkling&desc=Full-Stack%20AI%20Developer%20🤖&descSize=25&descColor=ffffff" alt="Twinkling Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/zhijiewong">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=🚀+Du-du-du-du-du-du+🎧🎶;Building+pawdig+%26+Open-Source+AIOps;Based+in+Tokyo,+Japan+🗼" alt="Typing SVG" />
+  </a>
 </p>
 ---
 <h1 align="center">Hi, I am Zhijie Wang 👋</h1>
